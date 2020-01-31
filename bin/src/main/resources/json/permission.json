@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "menuName": "Manage Leave",
+    "menuLink": "#",
+    "icon": "fas fa-list mr-3 text-gray",
+    "permission": [
+      "ADMIN",
+      "HR"
+    ],
+    "subMenu": [
+      {
+        "subMenuName": "Leave Dashboard",
+        "subMenuLink": "/manageLeaveDashboard"
+      },
+      {
+        "subMenuName": "Lieu Leave",
+        "subMenuLink": "/manageLeaveLeiuLeave"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "menuName": "Manage Leave",
+    "menuLink": "#",
+    "icon": "fas fa-list mr-3 text-gray",
+    "permission": [
+      "ADMIN",
+      "HR"
+    ],
+    "subMenu": [
+      {
+        "subMenuName": "Leave Dashboard",
+        "subMenuLink": "/manageLeaveDashboard"
+      },
+      {
+        "subMenuName": "Lieu Leave",
+        "subMenuLink": "/manageLeaveLeiuLeave"
+      }
+    ]
+  }
+]
